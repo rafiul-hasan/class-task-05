@@ -1,0 +1,94 @@
+*{
+    padding: 0; margin: 0;
+}
+body{
+    background-color: #75E2E9; 
+}
+.container{
+
+    float: left;
+    width: 1140px;
+    margin: 0px auto;
+}
+.full{
+    width: 100%;
+    float: left;
+    
+    margin: 250px 600px;
+}
+.left{
+    width: 40%;
+    float: left;
+    height: 550px;
+    background-color: #3786BE ;
+    color: #FFFFFF;
+}
+.left h2{
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.left p{
+    padding: 15px 15px;
+}
+.left button{
+    margin-top: 15px ;
+    margin-left: 15px;
+    padding: 12px 15px;
+    font-size: 12px;
+    margin-bottom:120px ;
+    cursor: pointer;
+}
+.right{
+    
+    font-size: 20px;
+    padding-left: 15px;
+    height: 550px;
+    width: 40%;
+    float: left;
+    background-color: #FFFFFF;
+}
+.fName{
+    margin-top: 15px;
+    width: 50%; float: left;
+}
+.lName{
+    margin-top: 15px;
+    width: 50%; float: left;
+    margin-bottom: 15px;
+}
+.right h2{
+    padding-top: 40px;
+    color: #3489C2;
+}
+.right button{
+    margin-top: 15px ;
+    padding: 12px 25px;
+    font-size: 14px;
+    background-color: #3786BE;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.terms{
+    color: #3786BE;
+}
+.pass{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 50%; float: left;
+}
+.rePass{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 50%; float: left;
+    
+}
+.mail{
+    padding-right: 230px !important;
+    
+}
+.right input{
+   
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+}
